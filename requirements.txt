@@ -1,0 +1,6 @@
+[project]
+name = "freetik5k"
+version = "1.0.0"
+dependencies = [
+    "streamlit"
+]
